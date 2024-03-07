@@ -3,3 +3,5 @@ Age = 38
 Gender = Male
 
 print (Name)
+print (Age)
+print (Gender)
