@@ -1,7 +1,1 @@
-Name = John
-Age = 38
-Gender = Male
-
-print (Name)
-print (Age)
-print (Gender)
+print ("Hello World")
